@@ -1,0 +1,5 @@
+Running on the local Pi Camera Module
+1. Every XX minutes capture a picture
+2. Name the picture with a timestamp in the name
+3. Upload the named image to dropbox folder using Pi’s Wifi
+4. Delete the image from the Pi local directory to not fill up memory
